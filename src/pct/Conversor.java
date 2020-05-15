@@ -10,5 +10,23 @@ package pct;
  * @author caioh
  */
 public class Conversor {
+    public static void main(String[] args) {
+        //Declaração de variaveis
+        
+        
+        //Criação e instância do objeto de entrada
+        
+        
+        //Entrada
+        
+        
+        //Processamento
+        
+        
+        //Saída
+        
+        
+        
+    }
     
 }
